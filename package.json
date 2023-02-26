@@ -1,0 +1,31 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "rest api examples",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickyHate/rest_api.git"
+  },
+  "keywords": [
+    "js",
+    "rest",
+    "api"
+  ],
+  "author": "nikitostokarev22@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickyHate/rest_api/issues"
+  },
+  "homepage": "https://github.com/NickyHate/rest_api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
